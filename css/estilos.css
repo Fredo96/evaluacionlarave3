@@ -1,0 +1,15 @@
+img>.container{
+
+    padding: 30px 0px;
+    
+}
+
+.small-img-group{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.small-img-col{
+    flex-basis: 24%;
+}
